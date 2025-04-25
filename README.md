@@ -74,3 +74,5 @@ You can customize the dashboard by:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [ShadCN UI](https://ui.shadcn.com/)
 - [Next.js](https://nextjs.org/) 
+
+![image](https://github.com/user-attachments/assets/fe1db5c6-6f89-4cad-80c5-4d24ed7b8f6b)
