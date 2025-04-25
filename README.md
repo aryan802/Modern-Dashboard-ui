@@ -2,6 +2,8 @@
 
 A visually appealing dashboard layout created with Next.js, TailwindCSS, and ShadCN UI components.
 
+![WhatsApp Image 2025-03-09 at 16 19 24_00580588](https://github.com/user-attachments/assets/7d3622f7-45ba-4330-b7ec-aba92936e753)
+
 This project demonstrates how to build a modern UI with:
 - Clean, responsive layouts using TailwindCSS
 - Reusable UI components based on ShadCN UI
@@ -75,5 +77,5 @@ You can customize the dashboard by:
 - [ShadCN UI](https://ui.shadcn.com/)
 - [Next.js](https://nextjs.org/) 
 
-![WhatsApp Image 2025-03-09 at 16 19 24_00580588](https://github.com/user-attachments/assets/7d3622f7-45ba-4330-b7ec-aba92936e753)
+
 
