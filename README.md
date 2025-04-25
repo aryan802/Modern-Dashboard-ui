@@ -29,7 +29,7 @@ This project demonstrates how to build a modern UI with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/modern-dashboard-ui.git
+git clone https://github.com/aryan802/Modern-Dashboard-ui.git
 cd modern-dashboard-ui
 ```
 
