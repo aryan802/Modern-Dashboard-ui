@@ -75,4 +75,5 @@ You can customize the dashboard by:
 - [ShadCN UI](https://ui.shadcn.com/)
 - [Next.js](https://nextjs.org/) 
 
-![image](https://github.com/user-attachments/assets/fe1db5c6-6f89-4cad-80c5-4d24ed7b8f6b)
+![WhatsApp Image 2025-03-09 at 16 19 24_00580588](https://github.com/user-attachments/assets/7d3622f7-45ba-4330-b7ec-aba92936e753)
+
